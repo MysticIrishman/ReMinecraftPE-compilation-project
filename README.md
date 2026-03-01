@@ -5,3 +5,4 @@ press quit on title screen to quit game ReMinecraftPE 0.2.0 alpha
 for anyone
 on apple silicon reqires Rosette 2
 if there is a rosette 3 tell me
+sorry we cannot create android version
